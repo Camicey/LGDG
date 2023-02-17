@@ -203,9 +203,14 @@ public class Game
         
         if (placeTerrain == 0) 
         {
-            J.Ajouter(J.Tapis.banc[placeTerrain]); //Ajouter la carte dans sa main
-            Console.WriteLine($"Vous avez retiré la carte {J.Tapis.banc[placeTerrain].Nom}");
-            J.Tapis.banc[placeTerrain] = cartesDispo[0] ;
+            if (J.Tapis.banc[placeTerrain] == cartesDispo[0]) Console.WriteLine($"Vous n'avez aucune carte ici");
+            else 
+            { 
+                J.Ajouter(J.Tapis.banc[placeTerrain]); //Ajouter la carte dans sa main
+                Console.WriteLine();
+                Console.WriteLine($"Vous avez retiré la carte {J.Tapis.banc[placeTerrain].Nom}");
+                J.Tapis.banc[placeTerrain] = cartesDispo[0] ;
+            }
         }
         else 
         {
