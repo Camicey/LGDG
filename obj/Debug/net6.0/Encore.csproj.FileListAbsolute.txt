@@ -1,0 +1,15 @@
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\bin\Debug\net6.0\Encore.exe
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\bin\Debug\net6.0\Encore.deps.json
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\bin\Debug\net6.0\Encore.runtimeconfig.json
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\bin\Debug\net6.0\Encore.dll
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\bin\Debug\net6.0\Encore.pdb
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\obj\Debug\net6.0\Encore.csproj.AssemblyReference.cache
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\obj\Debug\net6.0\Encore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\obj\Debug\net6.0\Encore.AssemblyInfoInputs.cache
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\obj\Debug\net6.0\Encore.AssemblyInfo.cs
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\obj\Debug\net6.0\Encore.csproj.CoreCompileInputs.cache
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\obj\Debug\net6.0\Encore.dll
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\obj\Debug\net6.0\refint\Encore.dll
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\obj\Debug\net6.0\Encore.pdb
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\obj\Debug\net6.0\Encore.genruntimeconfig.cache
+D:\Camille\Documents\Jeux\Développement Camille C\Encore\obj\Debug\net6.0\ref\Encore.dll
