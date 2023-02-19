@@ -3,6 +3,7 @@ public class Carte
 
     public string? Statut {get; set;}
     public string? Role {get; set;}
+    public string Perso {get; set;}
     public string Nom {get; set;}
     public double PM { get; set; }
     public int PV { get; set; }
@@ -20,6 +21,7 @@ public class Carte
         PV = pV;
         PA = pA;
         PVar = pV;
+        Perso = "Oui";
     }
     public Carte(string nom)
     {
@@ -29,6 +31,7 @@ public class Carte
         PV = 0;
         PVar = 0;
         PM = 0;
+        Perso = "Non";
     }
 
 /*
