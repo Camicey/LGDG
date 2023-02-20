@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Camille\\Documents\\Jeux\\Développement Camille C\\Encore\\Encore.csproj": {}
+    "D:\\Camille\\Documents\\Jeux\\Développement Camille C\\LGDG git\\Encore.csproj": {}
   },
   "projects": {
-    "D:\\Camille\\Documents\\Jeux\\Développement Camille C\\Encore\\Encore.csproj": {
+    "D:\\Camille\\Documents\\Jeux\\Développement Camille C\\LGDG git\\Encore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Camille\\Documents\\Jeux\\Développement Camille C\\Encore\\Encore.csproj",
+        "projectUniqueName": "D:\\Camille\\Documents\\Jeux\\Développement Camille C\\LGDG git\\Encore.csproj",
         "projectName": "Encore",
-        "projectPath": "D:\\Camille\\Documents\\Jeux\\Développement Camille C\\Encore\\Encore.csproj",
+        "projectPath": "D:\\Camille\\Documents\\Jeux\\Développement Camille C\\LGDG git\\Encore.csproj",
         "packagesPath": "C:\\Users\\Camille\\.nuget\\packages\\",
-        "outputPath": "D:\\Camille\\Documents\\Jeux\\Développement Camille C\\Encore\\obj\\",
+        "outputPath": "D:\\Camille\\Documents\\Jeux\\Développement Camille C\\LGDG git\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Camille\\AppData\\Roaming\\NuGet\\NuGet.Config"

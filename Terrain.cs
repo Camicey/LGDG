@@ -1,18 +1,18 @@
 public class Terrain
 {
-    Carte rien0 = new Carte("Place 0 ");
+    Carte rien0 = new Carte("Place 0    ");
     Carte rien1 = new Carte("Place 1    ");
+    Carte rien2 = new Carte("Place 2    ");
     public Carte[] banc {get; set;}
 
-    public Carte Stratege{get; set;}
+    //public Carte Stratege {get; set;}
 
     public Terrain()
     {
-        banc = new Carte[2];
+        banc = new Carte[3];
         banc[0] = rien0;
         banc[1] = rien1;
-        
-        Stratege = rien0;
+        banc[2] = rien2;
     }
 
     public void Ajouter (Carte card, int position)
@@ -31,10 +31,19 @@ public class Terrain
         string decrire = "";
 
         decrire = "\n";
-        decrire = decrire + $"    {banc[0].Nom}     {banc[1].Nom}     " + "\n"+ "\n";
-        decrire = decrire + $"          {Stratege.Nom}        " + "\n";
+        decrire = decrire + $"    {banc[1].Nom}     {banc[2].Nom}     " + "\n"+ "\n";
+        decrire = decrire + $"             {banc[0].Nom}        " + "\n";
         return decrire;
     }
 
+    public string Inverse()
+    {
+        string decrire = "";
 
+        decrire = "\n";
+        decrire = decrire + $"             {banc[0].Nom}        " + "\n \n";
+        decrire = decrire + $"    {banc[1].Nom}     {banc[2].Nom}     " + "\n";
+        
+        return decrire;
+    }
 }
